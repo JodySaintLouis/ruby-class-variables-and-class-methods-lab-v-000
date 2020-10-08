@@ -9,7 +9,7 @@ class Song
   end
 
   def count
-    Sonfg.count
+    Song.count
   end
 
 
